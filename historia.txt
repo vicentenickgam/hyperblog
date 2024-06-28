@@ -1,10 +1,7 @@
 esta es una historia
 
-si no 
-maso
+si
 
-pe gaaa
+gaaa
 
-estudiando realizamos nuevos cambios
-
-ya me dio pereza 
+estoy avanzando en git
